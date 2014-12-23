@@ -1,7 +1,0 @@
-{
-    "driver": "mysql",
-    "username": "root",
-    "database": "testapp",
-    "password": "root",
-    "location": "localhost"
-}
